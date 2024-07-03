@@ -5,8 +5,10 @@
   
 ![image](https://github.com/u2pitchjami/duplicates_music_directories/assets/149841209/e157d241-3fc2-443c-b936-1db7a4038dc3)
 
-
 ![image](https://github.com/u2pitchjami/duplicates_music_directories/assets/149841209/1e7d8258-2fd9-482b-976f-4907a22ad11e)
+
+![image](https://github.com/u2pitchjami/duplicates_music_directories/assets/149841209/3077e94d-5a4a-46d6-b69b-dd9d8b3a3284)
+
 
 <br><br>
 <b>doublons-mp3-flac.sh</b><br>
@@ -15,4 +17,7 @@
   ![image](https://github.com/u2pitchjami/duplicates_music_directories/assets/149841209/50263693-5249-4eca-b07c-352fbfef7363)
 
   ![image](https://github.com/u2pitchjami/duplicates_music_directories/assets/149841209/19120d73-cc4f-41bb-a09b-aa1e6c8da23a)
+
+  ![image](https://github.com/u2pitchjami/duplicates_music_directories/assets/149841209/b27e03c8-2483-48d5-845d-339ee90f866e)
+
 
