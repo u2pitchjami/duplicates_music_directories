@@ -1,3 +1,12 @@
+# 🗃️ Projet archivé
+
+> Ce dépôt a été fusionné dans [mixonaut](https://github.com/u2pitchjami/mixonaut).
+>
+>
+> > Aucune modification ne sera faite ici. Merci de contribuer sur le dépôt principal.
+
+
+
 <b>doublons-dossiers-musique.sh :</b><br>
   Check if a artist directory countain same album directories.<br>
   Decompose albums's names, and compare if the words are presents in the others albums in the same artist folder and send albums's path in logs files.<br>
